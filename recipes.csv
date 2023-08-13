@@ -1,0 +1,11 @@
+name,ingredients,liters,notes
+Green Machine,"{'green apple': 2, 'cucumber': 1, 'celery': 4, 'lemon': 0.5, 'spinach': 2}",1.0,Keep rind on the lemon
+Tropical Bliss,"{'pineapple': 1, 'orange': 1, 'banana': 1, 'coconut water': 0.5, 'water': 0.5}",0.75,Refreshing tropical flavors
+Berry Burst,"{'strawberries': 1, 'blueberries': 0.5, 'raspberries': 0.5, 'apple': 1, 'lemon': 0.5}",0.75,Mixed berry goodness
+Carrot Zing,"{'carrot': 4, 'orange': 1, 'ginger root': 0.5}",0.5,Energizing and zesty
+Citrus Splash,"{'orange': 2, 'grapefruit': 2, 'lemon': 1, 'lime': 1}",1.25,Citrusy and tangy
+Beet Blast,"{'beetroot': 1, 'carrot': 2, 'apple': 1, 'lemon': 0.5, 'ginger root': 0.5}",0.75,Vibrant and earthy
+Cucumber Cooler,"{'cucumber': 2, 'lemon': 1, 'mint leaves': 1}",0.5,Refreshing and hydrating
+Pomegranate Punch,"{'pomegranate seeds': 2, 'apple': 1, 'pear': 1, 'lemon': 0.5}",1.25,Sweet and tangy delight
+Sweet Green Elixir,"{'green apple': 2, 'pear': 1, 'cucumber': 0.5, 'kale leaves': 2, 'lemon': 0.5}",1.0,Nutrient-packed green juice
+Pineapple Ginger Delight,"{'pineapple': 2, 'ginger root': 0.5, 'lemon': 0.5}",1.25,Zingy pineapple with a ginger kick
