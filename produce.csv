@@ -1,0 +1,8 @@
+name,priceUnitsOrLbs,priceUnits,priceLbs,unitsPerLbs
+apple,False,False,5,4
+carrot,False,False,3,7
+ginger,False,False,3,7
+cucmber,False,False,5,4
+tomato,False,False,5,4
+celery,False,False,5,4
+lemon,False,False,5,4
